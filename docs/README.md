@@ -4,9 +4,9 @@ Klaytn Docs introduces [Klaytn](https://www.klaytn.com), an enterprise-grade, se
 
 | Document                            | Description                                                                                                                                               |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Klaytn 2.0](klaytn2/)          | Describes Klaytn 2 principles.                                                                                                      |
-| [Klaytn Basics](basics/) | Describes Klaytn key concepts and design principles.                                                                                                      |
-| [Klaytn Blockchain in Depth](klaytn-depth/)   | Advanced explanations of the Klaytn blockchain                                                                 |
+| [Klaytn 2.0](klaytn2/)          | Find out about Klaytn's new direction with Klaytn 2.0                                                                                            |
+| [Klaytn Basics](basics/) | Learn about Klaytn key concepts and design principles.                                                                                                      |
+| [Klaytn Advanced](klaytn-depth/)   | Advanced contents about the Klaytn blockchain                                                                 |
 | [Develop on Klaytn](develop/)   | Provides in-depth guide and tutorials on how to develop on Klaytn                               |
 
 **Disclaimer**: Some notes are derived from Ethereum documents as the Klaytn source code was initiated from Ethereum’s Byzantium version. As Klaytn evolves, Klaytn Docs and the source code will continue to be updated. Here are some websites for reference:
