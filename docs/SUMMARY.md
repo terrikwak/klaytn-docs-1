@@ -2,7 +2,7 @@
 
 * [Klaytn Docs](README.md)
 
-### Klaytn,the Metaverse Blockchain for All
+### Welcome to Klaytn
 
 * [Klaytn 2.0](klaytn2/README.md)
   * [Why Klaytn](klaytn/why-klaytn.md)
