@@ -2,7 +2,7 @@
 
 * [Klaytn Docs](README.md)
 
-### Klaytn 2.0
+### Klaytn,the Metaverse Blockchain for All
 
 * [Klaytn 2.0](klaytn2/README.md)
   * [Why Klaytn](klaytn/why-klaytn.md)
@@ -41,7 +41,7 @@
   * [Multi-Channel](klaytn-depth/multiport.md)
   * [KNI](klaytn-depth/kni.md)
 
-### Develop on Klaytn
+### Developer Section
 
 * [Develop on Klaytn](develop/README.md)
   * [Getting Started](develop/getting-started/README.md)
