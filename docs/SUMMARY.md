@@ -9,8 +9,8 @@
   * [Decentralizing Governance](klaytn2/decentralizing-governance.md)
   * [Massive Eco Fund](klaytn2/massive-ecofund.md)
 
-* [Klaytn Basics]
-  *[Overview](basics/README.md)
+* [Klaytn Basics](basics/README.md))
+  * [Overview](basics/overview.md)
   * [Consensus Mechanism](basics/consensus-mechanism.md)
   * [KLAY](basics/klaytn-native-coin-klay.md)
   * [Token Economy](basics/token-economy.md)
