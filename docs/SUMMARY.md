@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Klaytn Docs](README.md)
+
+### Klaytn 2.0
+
 * [Klaytn 2.0](klaytn2/README.md)
   * [Why Klaytn](klaytn/why-klaytn.md)
   * [Metaverse Package](klaytn2/metaverse-package.md)
@@ -8,6 +11,8 @@
   * [Ethereum Compatibility](klaytn2/ethereum-compatibility.md)
   * [Decentralizing Governance](klaytn2/decentralizing-governance.md)
   * [Massive Eco Fund](klaytn2/massive-ecofund.md)
+
+### Klaytn Basics
 
 * [Klaytn Basics](basics/README.md))
   * [Overview](basics/overview.md)
@@ -35,7 +40,9 @@
     * [Transaction Fees (Previous docs)](klaytn-depth/transaction-fees/transaction-fees-previous.md)
   * [Multi-Channel](klaytn-depth/multiport.md)
   * [KNI](klaytn-depth/kni.md)
-  *
+
+### Develop on Klaytn
+
 * [Develop on Klaytn](develop/README.md)
   * [Getting Started](develop/getting-started/README.md)
   * [Quick Start](develop/quick-start/README.md)
