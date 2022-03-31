@@ -1,0 +1,2 @@
+# Klaytn Compatible Tokens
+
