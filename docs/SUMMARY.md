@@ -12,7 +12,7 @@
   * [Decentralizing Governance](klaytn2/decentralizing-governance.md)
   * [Massive Eco Fund](klaytn2/massive-ecofund.md)
 
-### Klaytn Basics
+### Learn about Klaytn
 
 * [Klaytn Basics](basics/README.md))
   * [Overview](basics/overview.md)
@@ -21,7 +21,7 @@
   * [Token Economy](basics/token-economy.md)
   * [Governance](basics/governance.md)
   * [Scalability](basics/scaling-solutions.md)
-* [Klaytn Blockchain in Depth](klaytn-blockchain-in-depth/README.md)
+* [Klaytn Advanced ](klaytn-blockchain-in-depth/README.md)
   * [Accounts](klaytn-depth/accounts.md)
   * [Transactions](klaytn-depth/transactions/README.md)
     * [Basic](klaytn-depth/transactions/basic.md)
