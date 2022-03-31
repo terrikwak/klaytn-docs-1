@@ -4,11 +4,10 @@ Klaytn Docs introduces [Klaytn](https://www.klaytn.com), an enterprise-grade, se
 
 | Document                            | Description                                                                                                                                               |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Klaytn Overview](klaytn/)          | Describes Klaytn key concepts and design principles.                                                                                                      |
-| [Getting Started](getting-started/) | Provides guidelines for getting started with Klaytn.                                                                                                      |
-| [Smart Contract](smart-contract/)   | Tools and resources for smart contract development.                                                                                                       |
-| [Installation & Operation](node/)   | Illustrates how to set up and operate Endpoint Node (EN), Core Cell (CC) and Service Chain.                                                               |
-| [dApp Developers](dapp/)            | Development resources and references for dApp developers. This section contains Klaytn API references and provides end-to-end dApp development tutorials. |
+| [Klaytn 2.0](klaytn2/)          | Describes Klaytn 2 principles.                                                                                                      |
+| [Klaytn Basics](basics/) | Describes Klaytn key concepts and design principles.                                                                                                      |
+| [Klaytn Blockchain in Depth](klaytn-depth/)   | Advanced explanations of the Klaytn blockchain                                                                 |
+| [Develop on Klaytn](develop/)   | Provides in-depth guide and tutorials on how to develop on Klaytn                               |
 
 **Disclaimer**: Some notes are derived from Ethereum documents as the Klaytn source code was initiated from Ethereum’s Byzantium version. As Klaytn evolves, Klaytn Docs and the source code will continue to be updated. Here are some websites for reference:
 
