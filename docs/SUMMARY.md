@@ -1,5 +1,6 @@
 # Table of contents <a id="table-of-contents"></a>
 
+* [Klaytn Docs](klaytn/README.md)
 * [Klaytn 2.0](klaytn2/README.md)
   * [Why Klaytn](klaytn/why-klaytn.md)
   * [Metaverse Package](klaytn2/metaverse-package.md)
