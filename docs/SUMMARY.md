@@ -8,13 +8,9 @@
   * [Ethereum Compatibility](klaytn2/ethereum-compatibility.md)
   * [Decentralizing Governance](klaytn2/decentralizing-governance.md)
   * [Massive Eco Fund](klaytn2/massive-ecofund.md)
-<<<<<<< HEAD
 
 * [Klaytn Basics](basics/README.md))
   * [Overview](basics/overview.md)
-=======
-* [Overview](basics/README.md)
->>>>>>> ad3fc5e34b73edd3ff97c155ebb57e7300273444
   * [Consensus Mechanism](basics/consensus-mechanism.md)
   * [KLAY](basics/klaytn-native-coin-klay.md)
   * [Token Economy](basics/token-economy.md)
@@ -51,7 +47,8 @@
   * [Account Management](develop/account-management/README.md)
     * [Creating Accounts](develop/account-management/creating-accounts.md)
     * [Managing Accounts](develop/account-management/managing-accounts.md)
-  * [Getting KLAY \*Nodes](develop/getting-klay-nodes/README.md)
+  * [Getting KLAY](develop/getting-klay.md)
+  * [Nodes](develop/getting-klay-nodes/README.md)
     * [Endpoint Node](develop/getting-klay-nodes/endpoint-node/README.md)
       * [System Requirements](develop/getting-klay-nodes/endpoint-node/system-requirements.md)
       * [Installation Guide](develop/getting-klay-nodes/endpoint-node/installation-guide/README.md)
@@ -116,7 +113,8 @@
       * [Genesis JSON](develop/service-chain/reference-manuals/genesis-json.md)
     * [How-To Guides](develop/service-chain/how-to-guides.md)
   * [Errors & Troubleshooting](develop/errors-and-troubleshooting.md)
-  * [Download \*Smart Contract](develop/download-smart-contract/README.md)
+  * [Download](develop/download)
+  *[Smart Contract](develop/download-smart-contract/README.md)
     * [Solidity Basics](develop/download-smart-contract/solidity-basics.md)
     * [Precompiled Contracts](develop/download-smart-contract/precompiled-contracts/README.md)
       * [Precompiled Contracts (Previous docs)](develop/download-smart-contract/precompiled-contracts/precompiled-contracts-previous-docs.md)
