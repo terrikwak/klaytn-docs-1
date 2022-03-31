@@ -35,7 +35,7 @@
     * [Transaction Fees (Previous docs)](klaytn-depth/transaction-fees/transaction-fees-previous.md)
   * [Multi-Channel](klaytn-depth/multiport.md)
   * [KNI](klaytn-depth/kni.md)
-  * [Smart Contracts](klaytn-depth/kni.md)
+  * [Smart Contract](klaytn-depth/kni.md)
 
 * [Develop on Klaytn](develop/README.md)
   * [Getting Started](develop/getting-started/README.md)
