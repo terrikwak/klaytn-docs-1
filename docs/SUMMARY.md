@@ -114,7 +114,7 @@
     * [How-To Guides](develop/service-chain/how-to-guides.md)
   * [Errors & Troubleshooting](develop/errors-and-troubleshooting.md)
   * [Download](develop/download)
-  *[Smart Contract](develop/download-smart-contract/README.md)
+  * [Smart Contract](develop/download-smart-contract/README.md)
     * [Solidity Basics](develop/download-smart-contract/solidity-basics.md)
     * [Precompiled Contracts](develop/download-smart-contract/precompiled-contracts/README.md)
       * [Precompiled Contracts (Previous docs)](develop/download-smart-contract/precompiled-contracts/precompiled-contracts-previous-docs.md)
