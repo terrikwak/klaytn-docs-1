@@ -1,7 +1,5 @@
 # Klaytn Docs
 
-![](https://images.unsplash.com/photo-1646505579332-7267b82178cf?crop=entropy\&cs=srgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDg4MDI4MDU\&ixlib=rb-1.2.1\&q=85)
-
 Klaytn Docs introduces [Klaytn](https://www.klaytn.com), an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions of users. In the following documents, we explain what Klaytn is and provide guidelines and instructions on how to use Klaytn, as well as how to interact with the Klaytn network.
 
 | Document                         | Description                                                       |
