@@ -1,8 +1,9 @@
 # Table of contents
 
 * [Klaytn Docs](README.md)
+  * [Using the Klaytn Docs](readme/using-the-klaytn-docs.md)
 
-### Welcome to Klaytn
+## Welcome to Klaytn
 
 * [Klaytn 2.0](klaytn2/README.md)
   * [Why Klaytn](klaytn/why-klaytn.md)
@@ -12,16 +13,16 @@
   * [Decentralizing Governance](klaytn2/decentralizing-governance.md)
   * [Massive Eco Fund](klaytn2/massive-ecofund.md)
 
-### Learn about Klaytn
+## Learn about Klaytn
 
-* [Klaytn Basics](basics/README.md))
+* [Klaytn Basics](basics/README.md)
   * [Overview](basics/overview.md)
   * [Consensus Mechanism](basics/consensus-mechanism.md)
   * [KLAY](basics/klaytn-native-coin-klay.md)
   * [Token Economy](basics/token-economy.md)
   * [Governance](basics/governance.md)
   * [Scalability](basics/scaling-solutions.md)
-* [Klaytn Advanced ](klaytn-blockchain-in-depth/README.md)
+* [Klaytn Advanced](klaytn-blockchain-in-depth/README.md)
   * [Accounts](klaytn-depth/accounts.md)
   * [Transactions](klaytn-depth/transactions/README.md)
     * [Basic](klaytn-depth/transactions/basic.md)
@@ -41,7 +42,7 @@
   * [Multi-Channel](klaytn-depth/multiport.md)
   * [KNI](klaytn-depth/kni.md)
 
-### Developer Section
+## Developer Section
 
 * [Develop on Klaytn](develop/README.md)
   * [Getting Started](develop/getting-started/README.md)
@@ -120,26 +121,26 @@
       * [Genesis JSON](develop/service-chain/reference-manuals/genesis-json.md)
     * [How-To Guides](develop/service-chain/how-to-guides.md)
   * [Errors & Troubleshooting](develop/errors-and-troubleshooting.md)
-  * [Download](develop/download)
+  * [Download](developer-section/develop/download.md)
   * [Smart Contract](develop/smart-contract/README.md)
-    * [Solidity Basics](develop/smart-contract/solidity-basics.md)
-    * [Precompiled Contracts](develop/smart-contract/precompiled-contracts/README.md)
-      * [Precompiled Contracts (Previous docs)](develop/smart-contract/precompiled-contracts/precompiled-contracts-previous-docs.md)
+    * [Solidity Basics](developer-section/develop/smart-contract/solidity-basics.md)
+    * [Precompiled Contracts](developer-section/develop/smart-contract/precompiled-contracts/README.md)
+      * [Precompiled Contracts (Previous docs)](developer-section/develop/smart-contract/precompiled-contracts/precompiled-contracts-previous-docs.md)
     * [IDE and Tools](develop/smart-contract/ide-and-tools/README.md)
-      * [Klaytn IDE](develop/smart-contract/ide-and-tools/klaytn-ide.md)
-      * [Truffle](develop/smart-contract/ide-and-tools/truffle.md)
+      * [Klaytn IDE](developer-section/develop/smart-contract/ide-and-tools/klaytn-ide.md)
+      * [Truffle](developer-section/develop/smart-contract/ide-and-tools/truffle.md)
     * [Sample Contracts](develop/smart-contract/sample-contracts/README.md)
       * [KlaytnGreeter](develop/smart-contract/sample-contracts/klaytngreeter.md)
       * [ERC-20](develop/smart-contract/sample-contracts/erc-20/README.md)
-        * [1. Writing ERC-20 Smart Contract](develop/smart-contract/sample-contracts/erc-20/1.-writing-erc-20-smart-contract.md)
-        * [2. Deploying Smart Contract](develop/smart-contract/sample-contracts/erc-20/2.-deploying-smart-contract.md)
-        * [3. Interacting with ERC-20 token from Klaytn Wallet](develop/smart-contract/sample-contracts/erc-20/3.-interacting-with-erc-20-token-from-klaytn-wallet.md)
+        * [1. Writing ERC-20 Smart Contract](developer-section/develop/smart-contract/sample-contracts/erc-20/1.-writing-erc-20-smart-contract.md)
+        * [2. Deploying Smart Contract](developer-section/develop/smart-contract/sample-contracts/erc-20/2.-deploying-smart-contract.md)
+        * [3. Interacting with ERC-20 token from Klaytn Wallet](developer-section/develop/smart-contract/sample-contracts/erc-20/3.-interacting-with-erc-20-token-from-klaytn-wallet.md)
       * [ERC-721](develop/smart-contract/sample-contracts/erc-721/README.md)
-        * [1. Writing ERC-721 Smart Contract](develop/smart-contract/sample-contracts/erc-721/1.-writing-erc-721-smart-contract.md)
-        * [2. Deploying Smart Contract](develop/smart-contract/sample-contracts/erc-721/2.-deploying-smart-contract.md)
+        * [1. Writing ERC-721 Smart Contract](developer-section/develop/smart-contract/sample-contracts/erc-721/1.-writing-erc-721-smart-contract.md)
+        * [2. Deploying Smart Contract](developer-section/develop/smart-contract/sample-contracts/erc-721/2.-deploying-smart-contract.md)
     * [Testing Guide](develop/smart-contract/testing-guide.md)
-    * [Deployment Guide](develop/smart-contract/deployment-guide.md)
-    * [Klaytn Compatible Tokens](develop/smart-contract/klaytn-compatible-tokens.md)
+    * [Deployment Guide](developer-section/develop/smart-contract/deployment-guide.md)
+    * [Klaytn Compatible Tokens](developer-section/develop/smart-contract/klaytn-compatible-tokens.md)
     * [Porting Ethereum Contract](develop/smart-contract/porting-ethereum-contract.md)
   * [JSON-RPC APIs](dapp/json-rpc/README.md)
     * [Public JSON-RPC Endpoint](dapp/json-rpc/public-en.md)
