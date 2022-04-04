@@ -1,4 +1,4 @@
-# Using the Klaytn Docs
+# About Klaytn Docs
 
 [![Gitter](https://badges.gitter.im/klaytn/klaytn-docs.svg)](https://gitter.im/klaytn/klaytn-docs)
 
