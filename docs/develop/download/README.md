@@ -1,2 +1,0 @@
-# Download \*Smart Contract
-
