@@ -137,7 +137,7 @@
       * [SCN User Guide](develop/node/service-chain/reference-manuals/scn-user-guide/README.md)
         * [Installation](develop/node/service-chain/reference-manuals/scn-user-guide/installation.md)
         * [Configuration](develop/node/service-chain/reference-manuals/scn-user-guide/configuration.md)
-        * [Starting/Stopping SCN](develop/node/service-chain/reference-manuals/scn-user-guide/starting-stopping-scn.md)
+        * [Starting/Stopping SCN](develop/node/service-chain/reference-manuals/scn-user-guide/starting-stopping.md)
         * [Checking Node Status](develop/node/service-chain/reference-manuals/scn-user-guide/checking-node-status.md)
         * [kscn commands](develop/node/service-chain/reference-manuals/scn-user-guide/kscn-commands.md)
         * [homi commands](develop/node/service-chain/reference-manuals/scn-user-guide/homi-commands.md)
