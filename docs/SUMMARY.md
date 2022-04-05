@@ -129,7 +129,7 @@
     * [H/A Setup](develop/node/core-cell/h-a-setup.md)
   * [Service Chain](develop/node/service-chain/README.md)
     * [Getting Started](develop/node/service-chain/getting-started/README.md)
-      * [Setting up a 4-node Service Chain](develop/node/service-chain/getting-started/4nodes-setup-guide.md)
+      * [Setting up a 4-node Service Chain](develop/node/service-chain/getting-started/setting-up-a-4-node-service-chain.md)
       * [Connecting to Baobab](develop/node/service-chain/getting-started/connecting-to-baobab.md)
       * [Cross-Chain Value Transfer](develop/node/service-chain/getting-started/cross-chain-value-transfer.md)
     * [Reference Manuals](develop/node/service-chain/reference-manuals/README.md)
