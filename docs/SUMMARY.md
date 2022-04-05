@@ -154,7 +154,7 @@
       * [Log Files](develop/node/service-chain/reference-manuals/log-files.md)
       * [Genesis JSON](develop/node/service-chain/reference-manuals/genesis-json.md)
     * [How-To Guides](develop/node/service-chain/how-to-guides.md)
-  * [Errors & Troubleshooting](develop/node/errors-and-troubleshooting.md)
+  * [Errors & Troubleshooting](develop/node/service-chain/errors-and-troubleshooting.md)
   * [Download](develop/node/service-chain/reference-manuals/download.md)
 * [Smart Contract](develop/smart-contract/README.md)
   * [Solidity Basics](develop/smart-contract/solidity-basics.md)
