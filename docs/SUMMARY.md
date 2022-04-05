@@ -127,7 +127,7 @@
       * [Errors & Troubleshooting](develop/node/core-cell/operation-guide/errors-and-troubleshooting.md)
     * [Monitoring Setup](develop/node/core-cell/monitoring-setup.md)
     * [H/A Setup](develop/node/core-cell/h-a-setup.md)
-  * [Service Chain](develop/node/service-chain/README.md)
+  * [ServiceChain](develop/node/service-chain/README.md)
     * [Getting Started](develop/node/service-chain/getting-started/README.md)
       * [Setting up a 4-node Service Chain](develop/node/service-chain/getting-started/setting-up-a-4-node-service-chain.md)
       * [Connecting to Baobab](develop/node/service-chain/getting-started/connecting-to-baobab.md)
