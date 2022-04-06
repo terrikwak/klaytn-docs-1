@@ -1,2 +1,0 @@
-# Proxy Node Setup
-

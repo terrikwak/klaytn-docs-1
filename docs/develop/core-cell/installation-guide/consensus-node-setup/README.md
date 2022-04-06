@@ -1,2 +1,0 @@
-# Consensus Node Setup
-
